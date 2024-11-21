@@ -1,0 +1,15 @@
+# Ignore the compiled binary
+main
+
+# Ignore object files (if later added)
+*.o
+
+# Ignore debugging or profiling files
+*.gdb
+*.out
+
+# Ignore editor/IDE temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
